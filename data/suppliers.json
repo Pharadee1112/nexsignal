@@ -1,0 +1,10 @@
+[
+  {"id": "A", "name": "Supplier A", "material": "soybean meal", "country": "Brazil",    "lat": -23.96, "lon": -46.33, "port": "Santos",          "stock_days": 12, "eta_days": 7,  "order_tons": 5000},
+  {"id": "B", "name": "Supplier B", "material": "soybean meal", "country": "Argentina", "lat": -32.95, "lon": -60.64, "port": "Rosario",         "stock_days": 15, "eta_days": 8,  "order_tons": 4000},
+  {"id": "C", "name": "Supplier C", "material": "corn",         "country": "USA",       "lat": 29.95,  "lon": -90.07, "port": "New Orleans",     "stock_days": 20, "eta_days": 12, "order_tons": 6000},
+  {"id": "D", "name": "Supplier D", "material": "corn",         "country": "Thailand",  "lat": 15.70,  "lon": 100.12, "port": null,              "stock_days": 10, "eta_days": 3,  "order_tons": 3000},
+  {"id": "E", "name": "Supplier E", "material": "fishmeal",     "country": "Peru",      "lat": -12.05, "lon": -77.15, "port": "Callao",          "stock_days": 14, "eta_days": 9,  "order_tons": 1500},
+  {"id": "F", "name": "Supplier F", "material": "fishmeal",     "country": "Vietnam",   "lat": 10.77,  "lon": 106.70, "port": "Ho Chi Minh City","stock_days": 9,  "eta_days": 4,  "order_tons": 1200},
+  {"id": "G", "name": "Supplier G", "material": "palm oil",     "country": "Malaysia",  "lat": 3.00,   "lon": 101.39, "port": "Port Klang",      "stock_days": 18, "eta_days": 10, "order_tons": 2000},
+  {"id": "H", "name": "Supplier H", "material": "cassava",      "country": "Thailand",  "lat": 14.97,  "lon": 102.10, "port": null,              "stock_days": 8,  "eta_days": 2,  "order_tons": 2500}
+]
